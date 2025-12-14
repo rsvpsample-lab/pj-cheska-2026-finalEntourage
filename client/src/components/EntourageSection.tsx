@@ -15,6 +15,24 @@ const EntourageSection = () => {
         </div>
 
         <div className="animate-fade-up space-y-12">
+          {/* Parents */}
+          <div className="grid grid-cols-2 gap-6">
+            <div>
+              <h3 className="text-lg font-script italic text-primary mb-3 text-center">Parents of the Bride</h3>
+              <div className="space-y-1 text-xs text-foreground text-center">
+                <p>MA VICTORIA CRUZ</p>
+                <p>JOSELITO CRUZ</p>
+              </div>
+            </div>
+            <div>
+              <h3 className="text-lg font-script italic text-primary mb-3 text-center">Parents of the Groom</h3>
+              <div className="space-y-1 text-xs text-foreground text-center">
+                <p>PHILAMER NAVAL</p>
+                <p>CHARITO NAVAL</p>
+              </div>
+            </div>
+          </div>
+
           {/* Solemnizing Minister */}
           <div>
             <h3 className="text-lg font-script italic text-primary mb-3 text-center">Solemnizing Minister</h3>
