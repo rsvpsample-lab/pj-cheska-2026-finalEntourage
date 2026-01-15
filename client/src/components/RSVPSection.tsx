@@ -52,7 +52,7 @@ const RSVPSection = () => {
             {/* RSVP Deadline */}
             <div className="mt-8 p-4 bg-[#4e403b]/5 border border-[#4e403b]/20 rounded-lg">
               <p className="text-primary font-semibold">
-                RSVP Deadline: <span className="text-[#403326]">Disyembre 31, 2025</span>
+                RSVP Deadline: <span className="text-[#403326]">Enero 20, 2026</span>
               </p>
               <p className="text-sm text-muted-foreground mt-1">
                 Please respond by this date to help us finalize our arrangements
